@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kittwyy</h1>
 <h3 align="center">- /ᐠ - ˕ -マ Ⳋ</h3>
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kittwiii" alt="kittwiii" /></a> </p>
-
-- ⚡ Fun fact **Assembly is pain**
+-->
+- ⚡**Assembly is pain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
